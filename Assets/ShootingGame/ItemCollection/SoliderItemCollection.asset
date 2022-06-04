@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8604050367890516600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: AssaultRifle
+  m_EditorClassIdentifier: 
+  m_ID: 2
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 1
+--- !u!114 &-8472034684792198697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: RocketLauncherBullets
+  m_EditorClassIdentifier: 
+  m_ID: 9
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 500
+--- !u!114 &-6061030065287503321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: AssaultRifleBullets
+  m_EditorClassIdentifier: 
+  m_ID: 3
+  m_CategoryIDs: 
+  m_Description: 
+  m_Capacity: 500
+--- !u!114 &-3806468801214542108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  m_ID: 0
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd29761419510c7469e993b29ea117d8, type: 3}
+  m_Name: SoliderItemCollection
+  m_EditorClassIdentifier: 
+  m_Categories:
+  - {fileID: 541975241099176422}
+  m_ItemTypes:
+  - {fileID: -3806468801214542108}
+  - {fileID: 5386972339766987171}
+  - {fileID: -8604050367890516600}
+  - {fileID: -6061030065287503321}
+  - {fileID: 7728726527547852453}
+  - {fileID: 809216564732516471}
+  - {fileID: 5316405965765010648}
+  - {fileID: 2824201084360070053}
+  - {fileID: 7700451472463920554}
+  - {fileID: -8472034684792198697}
+  - {fileID: 9089882515622787562}
+--- !u!114 &541975241099176422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee2c1a75ff367a42ba5f16bd97e5519, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  m_ID: 1534763782
+--- !u!114 &809216564732516471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: SniperBullets
+  m_EditorClassIdentifier: 
+  m_ID: 5
+  m_CategoryIDs: 
+  m_Description: 
+  m_Capacity: 500
+--- !u!114 &2824201084360070053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: ShotgunBullets
+  m_EditorClassIdentifier: 
+  m_ID: 7
+  m_CategoryIDs: 
+  m_Description: 
+  m_Capacity: 500
+--- !u!114 &5316405965765010648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  m_ID: 6
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 1
+--- !u!114 &5386972339766987171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: PistolBullets
+  m_EditorClassIdentifier: 
+  m_ID: 1
+  m_CategoryIDs: 
+  m_Description: 
+  m_Capacity: 500
+--- !u!114 &7700451472463920554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: RocketLauncher
+  m_EditorClassIdentifier: 
+  m_ID: 8
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 1
+--- !u!114 &7728726527547852453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  m_ID: 4
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 1
+--- !u!114 &9089882515622787562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: HandGrenade
+  m_EditorClassIdentifier: 
+  m_ID: 10
+  m_CategoryIDs: 06a37a5b
+  m_Description: 
+  m_Capacity: 500
