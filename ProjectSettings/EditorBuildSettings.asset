@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/1.unity
     guid: 6d1eb96d90b32964a8be9b20a8f5502d
   - enabled: 0
+=======
+    path: Assets/Scenes/Seaview.unity
+    guid: d93dc5a07c076834aaac82b5b1e13dfe
+  - enabled: 1
+>>>>>>> 687abf73a9063b314735d61c9772447dd08d1184
     path: Assets/Scenes/Forest.unity
     guid: 3c1ef12cd1c1c3d4f92ae805b0a39037
   m_configObjects: {}
