@@ -23,7 +23,7 @@ MonoBehaviour:
   m_terrainWidth: 512
   m_terrainDepth: 512
   m_terrainHeight: 512
-  m_seaLevel: 12.5
+  m_seaLevel: 14.7
   m_spawnDensity: 0.6
   m_isLocked: 0
   m_previewImageBytes: 
@@ -66,8 +66,8 @@ MonoBehaviour:
   m_terrainMinMaxCache:
   - guid: f8e147f8f0c1bec45895436ddd2774a0
     isWorldmap: 0
-    recalculate: 1
-    min: 0
-    max: 49.42263
+    recalculate: 0
+    min: 2.421912
+    max: 46.86009
   m_bakedMaskCacheEntries: []
   m_worldBiomeMaskSettings: {fileID: 0}
