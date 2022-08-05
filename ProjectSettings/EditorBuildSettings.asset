@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ForestMobile.unity
+    path: Assets/Scenes/Desert.unity
+    guid: 4cf24e2895c83a84a92de4c81800be9a
+  - enabled: 1
+    path: 
     guid: 6d1eb96d90b32964a8be9b20a8f5502d
   m_configObjects: {}
