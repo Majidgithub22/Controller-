@@ -109,21 +109,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
   m_Name: AmbientOcclusion
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
   mode:
-    overrideState: 1
-    value: 1
+    overrideState: 0
+    value: 0
   intensity:
     overrideState: 1
-    value: 1.25
+    value: 1
   color:
     overrideState: 1
-    value: {r: 0.086842105, g: 0.09210527, b: 0.1, a: 0}
+    value: {r: 0.11280703, g: 0.11998263, b: 0.14150941, a: 0}
   ambientOnly:
-    overrideState: 1
+    overrideState: 0
     value: 1
   noiseFilterTolerance:
     overrideState: 0
@@ -329,7 +329,7 @@ MonoBehaviour:
     value: 1
   gradingMode:
     overrideState: 1
-    value: 1
+    value: 0
   externalLut:
     overrideState: 0
     value: {fileID: 0}
