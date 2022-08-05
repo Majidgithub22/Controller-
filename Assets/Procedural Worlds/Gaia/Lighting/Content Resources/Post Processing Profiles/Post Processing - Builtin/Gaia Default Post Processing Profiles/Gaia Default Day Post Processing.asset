@@ -114,11 +114,11 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   mode:
-    overrideState: 0
-    value: 0
-  intensity:
     overrideState: 1
     value: 1
+  intensity:
+    overrideState: 1
+    value: 1.07
   color:
     overrideState: 1
     value: {r: 0.11280703, g: 0.11998263, b: 0.14150941, a: 0}
@@ -329,7 +329,7 @@ MonoBehaviour:
     value: 1
   gradingMode:
     overrideState: 1
-    value: 0
+    value: 1
   externalLut:
     overrideState: 0
     value: {fileID: 0}
