@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Ground.unity
+    guid: 713f58198d06bcf4d9e3e3344ba4662c
+  - enabled: 1
+    path: Assets/Scenes/SnowEnvirment.unity
+    guid: 5dbe35aedb50bf64fbc27088a56e51ea
+  - enabled: 1
     path: Assets/Scenes/Desert.unity
     guid: 4cf24e2895c83a84a92de4c81800be9a
   - enabled: 1

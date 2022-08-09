@@ -364,10 +364,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: 10
+    value: -34
   tint:
     overrideState: 1
-    value: -10
+    value: -3
   colorFilter:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -1676,7 +1676,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 75
+    value: 125
   aperture:
     overrideState: 1
     value: 16
