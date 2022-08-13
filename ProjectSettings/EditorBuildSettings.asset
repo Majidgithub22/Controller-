@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Sea.unity
+    guid: cf599b2bfd302a14093ecf52bcb1dc23
+  - enabled: 1
     path: Assets/Scenes/Ground.unity
     guid: 713f58198d06bcf4d9e3e3344ba4662c
   - enabled: 1
