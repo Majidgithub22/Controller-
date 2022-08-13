@@ -198,6 +198,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2499882 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -531,6 +532,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &23347606
@@ -17031,6 +17034,7 @@ MonoBehaviour:
     noiseTypeParams: 
     fractalTypeParams: '{"warpOffsets":{"x":2.5,"y":1.399999976158142,"z":3.200000047683716,"w":2.700000047683716},"octavesMinMax":{"x":0.0,"y":16.0},"amplitudeMinMax":{"x":0.0,"y":1.0},"frequencyMinMax":{"x":0.0,"y":2.0},"lacunarityMinMax":{"x":0.0,"y":4.0},"persistenceMinMax":{"x":0.0,"y":1.0},"warpIterationsMinMax":{"x":0.0,"y":8.0},"warpStrengthMinMax":{"x":-2.0,"y":2.0},"octaves":8.0,"amplitude":0.49900001287460329,"frequency":1.065999984741211,"persistence":0.5460000038146973,"lacunarity":1.9500000476837159,"warpIterations":1.0,"warpStrength":0.5,"warpEnabled":false,"warpExpanded":true}'
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &38377858
 Mesh:
   m_ObjectHideFlags: 0
@@ -17359,6 +17363,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &48147510
@@ -18954,6 +18960,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &193423820
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19035,6 +19042,8 @@ PrefabInstance:
       objectReference: {fileID: 477598087}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &212726474
@@ -20077,6 +20086,7 @@ Transform:
   m_Father: {fileID: 2022757907}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!43 &361140527
 Mesh:
   m_ObjectHideFlags: 0
@@ -20241,6 +20251,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &363381972
 GameObject:
   m_ObjectHideFlags: 0
@@ -20271,6 +20283,7 @@ Transform:
   m_Father: {fileID: 1622025920}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!43 &381182842
 Mesh:
@@ -20517,6 +20530,8 @@ PrefabInstance:
       objectReference: {fileID: 1310095503}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &391231377
@@ -20899,6 +20914,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &472035745 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21232,6 +21248,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!114 &498045012
@@ -26557,6 +26575,7 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &608227661
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26638,6 +26657,8 @@ PrefabInstance:
       objectReference: {fileID: 38377858}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &624257989
@@ -38678,6 +38699,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &680240197
 Mesh:
   m_ObjectHideFlags: 0
@@ -38928,6 +38950,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
   m_PrefabInstance: {fileID: 892601081}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &707899470
@@ -39548,6 +39572,7 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &745849504
 Mesh:
   m_ObjectHideFlags: 0
@@ -39798,6 +39823,8 @@ PrefabInstance:
       objectReference: {fileID: 329750581}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1001 &807540697
@@ -43954,6 +43981,7 @@ MonoBehaviour:
   m_stampWidth: 100
   m_stampHeight: 100
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &865184540
 Mesh:
   m_ObjectHideFlags: 0
@@ -44282,6 +44310,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!114 &875651126
@@ -45608,6 +45638,7 @@ MonoBehaviour:
   m_stampWidth: 100
   m_stampHeight: 100
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &891109276
 Mesh:
   m_ObjectHideFlags: 0
@@ -45853,6 +45884,8 @@ PrefabInstance:
       objectReference: {fileID: 668601801}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &897983493
@@ -50198,6 +50231,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &1046944083
 Mesh:
   m_ObjectHideFlags: 0
@@ -50526,6 +50560,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &1075753455
@@ -53636,6 +53672,7 @@ Transform:
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &1226354065
 Mesh:
   m_ObjectHideFlags: 0
@@ -54214,6 +54251,8 @@ PrefabInstance:
       objectReference: {fileID: 1693851299}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!114 &1294574908
@@ -54848,6 +54887,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33d3d57ba5fc7484c8d09150e45066a4, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1383080288
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -54929,6 +54969,8 @@ PrefabInstance:
       objectReference: {fileID: 1695071344}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &1388550172
@@ -56305,6 +56347,7 @@ Transform:
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &1465183799
 Mesh:
   m_ObjectHideFlags: 0
@@ -56797,6 +56840,8 @@ Mesh:
     offset: 0
     size: 0
     path: 
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!114 &1490481411
@@ -68727,6 +68772,7 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1751332176
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -68979,6 +69025,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &1772517238
 GameObject:
   m_ObjectHideFlags: 0
@@ -69221,6 +69269,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1780148107
 GameObject:
   m_ObjectHideFlags: 0
@@ -69435,6 +69484,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
   m_PrefabInstance: {fileID: 608227661}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 --- !u!1 &1807580102
