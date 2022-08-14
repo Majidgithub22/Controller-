@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/BoatsFight.unity
+    guid: 52d45241fb057964d929dba45f1d3798
+  - enabled: 1
     path: Assets/Scenes/FiringRange.unity
     guid: 6dfbed8e7e0de664e8441023a5393212
   - enabled: 1
