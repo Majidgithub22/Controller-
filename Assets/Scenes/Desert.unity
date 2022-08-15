@@ -200,14 +200,11 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &2499882 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
   m_PrefabInstance: {fileID: 1751332176}
   m_PrefabAsset: {fileID: 0}
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &3889003
@@ -539,13 +536,10 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &23347606
@@ -17212,9 +17206,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &38377858
@@ -17381,7 +17372,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!43 &40091700
 Mesh:
@@ -17551,8 +17541,6 @@ Mesh:
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &48147510
@@ -19400,9 +19388,6 @@ Animator:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &193423820
@@ -19411,11 +19396,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -19427,11 +19408,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 7
-=======
-      value: 1
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 1
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -19451,7 +19428,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -434.78967
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -19462,8 +19438,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -266.0293
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -338.36
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -19473,9 +19447,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -397.48
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -19485,7 +19456,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -19496,8 +19466,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -19507,9 +19475,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -19539,13 +19504,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &212726474
@@ -21280,9 +21242,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &381182842
@@ -21455,11 +21414,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -21471,11 +21426,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 6
-=======
-      value: 1
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 1
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -21495,7 +21446,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -490.6597
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21506,8 +21456,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -285.31927
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -394.23
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21517,9 +21465,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -416.77
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21529,7 +21474,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21540,8 +21484,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21551,9 +21493,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -21583,13 +21522,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &391231377
@@ -21974,14 +21910,11 @@ Animator:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &472035745 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
   m_PrefabInstance: {fileID: 1383080288}
   m_PrefabAsset: {fileID: 0}
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &477598087
@@ -22313,13 +22246,10 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!114 &498045012
@@ -27975,9 +27905,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &608227661
@@ -27986,11 +27913,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -28002,11 +27925,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 5
-=======
-      value: 1
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 1
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -28026,7 +27945,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -586.5597
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -28037,8 +27955,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -261.49933
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -490.13
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -28048,9 +27964,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -392.95
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -28060,7 +27973,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -28071,8 +27983,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -28082,9 +27992,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -28114,13 +28021,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &624257989
@@ -40327,9 +40231,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &680240197
@@ -40502,11 +40403,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -40518,11 +40415,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 4
-=======
-      value: 1
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 1
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -40542,7 +40435,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -482.82968
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40553,8 +40445,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -244.15929
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -386.4
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40564,9 +40454,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -375.61
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40576,7 +40463,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40587,8 +40473,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40598,9 +40482,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40630,7 +40511,6 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &693967494 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -40640,8 +40520,6 @@ Transform:
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &707899470
@@ -41264,7 +41142,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!43 &745849504
 Mesh:
   m_ObjectHideFlags: 0
@@ -41436,19 +41313,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &803136067
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -41459,7 +41330,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
-<<<<<<< HEAD
 <<<<<<< HEAD
       value: 10
       objectReference: {fileID: 0}
@@ -41487,8 +41357,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 11.424
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -41514,9 +41382,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -119.47
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -41526,7 +41391,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -41537,8 +41401,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -41548,9 +41410,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -41580,13 +41439,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &807540697
@@ -45745,9 +45601,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &865184540
@@ -45914,7 +45767,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!43 &872740988
 Mesh:
@@ -46084,8 +45936,6 @@ Mesh:
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!114 &875651126
@@ -47414,9 +47264,6 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &891109276
@@ -47589,11 +47436,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -47605,11 +47448,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 3
-=======
-      value: 1
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 1
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -47629,7 +47468,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -499.1197
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -47640,8 +47478,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -213.03929
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -402.69
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -47651,9 +47487,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -344.49
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -47663,7 +47496,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -47674,8 +47506,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -47685,9 +47515,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -47717,13 +47544,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &897983493
@@ -52071,9 +51895,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &1046944083
@@ -52240,7 +52061,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!43 &1072011388
 Mesh:
@@ -52410,8 +52230,6 @@ Mesh:
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &1075753455
@@ -55610,9 +55428,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &1226354065
@@ -56108,14 +55923,11 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &1271537726 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
   m_PrefabInstance: {fileID: 2123171350}
   m_PrefabAsset: {fileID: 0}
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &1289488988
@@ -56124,11 +55936,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -56140,11 +55948,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 2
-=======
-      value: 1
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 1
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -56164,7 +55968,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -484.3097
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -56175,8 +55978,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -161.6493
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -387.88
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -56186,9 +55987,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -293.1
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -56198,7 +55996,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -56209,8 +56006,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -56220,9 +56015,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -56252,13 +56044,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!114 &1294574908
@@ -57059,9 +56848,6 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &1383080288
@@ -57070,11 +56856,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -57086,11 +56868,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 9
-=======
-      value: 3
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 3
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -57110,7 +56888,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -423.07968
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -57121,8 +56898,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -74.75931
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -326.65
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -57132,9 +56907,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -206.21
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -57144,7 +56916,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -57155,8 +56926,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -57166,9 +56935,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -57198,13 +56964,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &1388550172
@@ -58911,9 +58674,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &1465183799
@@ -59081,7 +58841,6 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!43 &1480577384
 Mesh:
   m_ObjectHideFlags: 0
@@ -59246,8 +59005,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!43 &1485147338
@@ -59415,13 +59172,10 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!114 &1490481411
@@ -72174,9 +71928,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1001 &1751332176
@@ -72185,11 +71936,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_TransformParent: {fileID: 1780148108}
-=======
-    m_TransformParent: {fileID: 0}
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
     m_TransformParent: {fileID: 0}
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -72201,11 +71948,7 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 8
-=======
-      value: 2
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
       value: 2
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
@@ -72225,7 +71968,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -470.25967
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72236,8 +71978,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -93.589294
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: -373.83
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72247,9 +71987,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalPosition.z
       value: -225.04
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72259,7 +71996,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.x
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72270,8 +72006,6 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
 =======
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72281,9 +72015,6 @@ PrefabInstance:
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
-<<<<<<< HEAD
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
-=======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
       objectReference: {fileID: 0}
     - target: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72477,7 +72208,6 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &1768895582 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72487,8 +72217,6 @@ Transform:
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &1772517238
@@ -72735,9 +72463,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &1780148107
@@ -72770,7 +72495,6 @@ Transform:
   - {fileID: 1174487052}
   - {fileID: 58760203}
 <<<<<<< HEAD
-<<<<<<< HEAD
   - {fileID: 931282218}
   - {fileID: 693967494}
   - {fileID: 773537570}
@@ -72786,10 +72510,6 @@ Transform:
   - {fileID: 1271537726}
   m_Father: {fileID: 0}
   m_RootOrder: 4
-=======
-  m_Father: {fileID: 0}
-  m_RootOrder: 13
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
   m_Father: {fileID: 0}
   m_RootOrder: 13
@@ -72960,7 +72680,6 @@ Mesh:
     size: 0
     path: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!4 &1803038653 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4789144321478792, guid: 293c159ce4cbe1d4a9e52449526598e3, type: 3}
@@ -72970,8 +72689,6 @@ Transform:
 >>>>>>> parent of 5e4f439b (Desert Edit)
 =======
 >>>>>>> parent of 5e4f439b (Desert Edit)
-=======
->>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 =======
 >>>>>>> parent of 7e5d44b6 (Revert "Desert Edit")
 --- !u!1 &1807580102
